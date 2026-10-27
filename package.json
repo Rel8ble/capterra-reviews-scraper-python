@@ -1,0 +1,13 @@
+{
+  "name": "capterra-reviews-scraper-examples",
+  "private": true,
+  "type": "module",
+  "description": "Examples for https://apify.com/rel8ble/capterra-reviews-scraper",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT"
+}
